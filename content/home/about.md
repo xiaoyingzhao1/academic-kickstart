@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Power Electronics",
-    "Electromagnetic Simulation",
+    "Power System Simulation",
     "Power Quality",
     "HVDC"
   ]
@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 Xiaoying Zhao joined Global Energy Interconnection Research Institute North America (GEIRI North America) in 2018. Her current research
-interests focus on power system and smart grid, HVDC simulation, and microgrid.
+interests focus on power system and smart grid, microgrid and HVDC simulation.
