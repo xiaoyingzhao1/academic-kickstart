@@ -29,11 +29,12 @@ date_format = "January 2006"
   Responsibilities include: 
   
   * Modelling 
+  * Project Coordination
   * R&D
   """
 
 [[experience]]
-  title = "Deputy Manager/Assistant Manager/Team Lead/Senior Software Engineer"
+  title = "Deputy Manager"
   company = "China EPRI Science & Technology Co., Ltd"
   location = "Beijing, China"
   date_start = "2008-01-01"
@@ -48,4 +49,16 @@ during product design, testing, manufacturing and on-field installation
 simulations with appropriate tools
   * Responsible of code implementation for core components
   """
+  
+ [[experience]]
+  title = "Software Engineer"
+  company = "China Electric Power Research Institute"
+  location = "Beijing, China"
+  date_start = "2005-06-01"
+  date_end = "2007-12-31"
+  description = """In this position, Xiaoying mainly worked on power electronics devices research and development, embedded software development.
+  Responsibilities include: 
+  
+  * R&D 
+  """ 
 +++
