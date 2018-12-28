@@ -25,28 +25,27 @@ date_format = "January 2006"
   location = "San Jose, California"
   date_start = "2018-01-29"
   date_end = ""
-  description = """Xiaoying has been employed at GEIRI North America since January of 2018. In her position, she is responsible for data analysis and algorithm developments. Particularly, he is working on bad data detection, data process and analysis, pattern recognition, pattern extraction, training of AI models, and algorithm design. He is also developing software to implement algorithms and visualizing the analysis results. 
+  description = """Xiaoying has been employed at GEIRI North America since January of 2018. In her position, she is responsible for power system simulation. She is working on developing power system simulation softwares and building various HVDC models. 
   Responsibilities include: 
   
-  * Data Processing
-  * Model Training
+  * Modelling 
   * R&D
   """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Cornell University"
-  company_url = "www.cornell.edu"
-  location = "Ithaca, New York"
-  date_start = "2011-01-01"
-  date_end = "2016-12-31"
-  description = """In this research position, Dr. Yu performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped me to prepare lectures, give recitations, lead labs, and design exams. As a RA, he is responsible to formulate problems, collect and process data, build and validate models, develop algorithms and control, carry out numerical experiments, write paper, and present results. 
-  Responsibilities include: 
+  title = "Deputy Manager/Assistant Manager/Team Lead/Senior Software Engineer"
+  company = "China EPRI Science & Technology Co., Ltd"
+  location = "Beijing, China"
+  date_start = "2008-01-01"
+  date_end = "2016-07-20"
+  description = """Xiaoying worked for China EPRI Science & Technology Co., Ltd. from 01/01/2008 to 07/20/2016 as a Senior Software Engineer, a Team Lead, Assistant Manager, and Deputy Manager. In her escalating positions, her responsibilities included the following:
 
-  * Analysing
-  * Modelling
-  * Algorithm Design
-  * Course Teaching
+  * R&D high-voltage power quality improving systems/devices such as DVR
+(Dynamic Voltage Restorer), SSTS(Solid Static Transfer Switch), STATCOM(Static Synchronous Compensator), UPFC(Unified Power Flow Controller)
+  * Manage the QA team, lead trouble shooting, and provide technical consultation
+during product design, testing, manufacturing and on-field installation
+  * Controller architecture design and verify control design through
+simulations with appropriate tools
+  * Responsible of code implementation for core components
   """
-  
 +++
