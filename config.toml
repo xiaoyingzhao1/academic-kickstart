@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Xiaoying Zhao"
-  role = "Research Engineer"
+  role = "Power System Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "xiaoying.zhao@geirina.net"
-  address = "250 W Tasman Drive, STE 100, San Jose, California, 95136, USA"
+  address = "250 W Tasman Drive, STE 100, San Jose, California, 95134, USA"
   office_hours = """
   Weekday 10:00 to 18:00\\
   Otherwise email to book an appointment
