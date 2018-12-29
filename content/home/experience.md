@@ -34,12 +34,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Deputy Manager"
+  title = "Deputy Manager/Assistant Manager/Team Lead/Senior Software Engineer"
   company = "China EPRI Science & Technology Co., Ltd"
   location = "Beijing, China"
   date_start = "2008-01-01"
   date_end = "2016-07-20"
-  description = """Xiaoying worked for China EPRI Science & Technology Co., Ltd. from 01/01/2008 to 07/20/2016 as a Senior Software Engineer, a Team Lead, Assistant Manager, and Deputy Manager. In her escalating positions, her responsibilities included the following:
+  description = """Xiaoying worked for China EPRI Science & Technology Co., Ltd. from 01/01/2008 to 07/20/2016 successively as Senior Software Engineer, Team Lead, Assistant Manager, and Deputy Manager. In her escalating positions, her responsibilities included the following:
 
   * R&D high-voltage power quality improving systems/devices such as DVR
 (Dynamic Voltage Restorer), SSTS(Solid Static Transfer Switch), STATCOM(Static Synchronous Compensator), UPFC(Unified Power Flow Controller)
