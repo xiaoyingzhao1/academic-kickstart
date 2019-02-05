@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MEng in Electric Engineering"
-  institution = "Institude of Electrical Engineering, Chinese Academy of Science"
+  institution = "Institute of Electrical Engineering, Chinese Academy of Science"
   year = 2005
 
 [[education.courses]]
